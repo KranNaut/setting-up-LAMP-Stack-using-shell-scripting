@@ -78,7 +78,9 @@ sudo service apache2 restart
 ```
 The above command is used to restart the apache2 web service.
 
-### With this the LAMP stack installation is completed.
+
+## This concludes the script and with this the LAMP stack installation is complete. The web server is ready to be used.
+
 **You can find the complete code at my Github [MeghaRawat3](https://github.com/MeghaRawat3/setting-up-LAMP-Stack-using-shell-scripting)**
 
 
